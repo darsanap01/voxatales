@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Whispers of the Little Village",
+    "description": "A gentle tale from a quiet village where small moments become lasting memories.",
+    "text": "Once upon a time, in a quiet little village surrounded by green fields and tall trees, there lived a curious child who loved listening to stories. Every evening, as the sun dipped below the horizon, the child would sit near the window and imagine magical worlds beyond the hills.\n\nOne day, the child discovered an old notebook hidden inside a wooden box. The pages were yellowed with time, but the words felt alive. As the child began to read, the village transformed into a place of wonder. Birds seemed to sing louder, the wind whispered secrets, and even the stars appeared closer.\n\nThis first story is about finding magic in ordinary moments and understanding that every small experience can become a beautiful memory when seen with imagination and hope.",
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534420618/if-this-were-a-story-9781534420618_lg.jpg",
+    "audio_path": "audio/story_voicenote.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Beyond the Familiar Path",
+    "description": "An adventurous tale that explores courage, friendship, and the excitement of discovering the unknown.",
+    "text": "The second story begins on a bright morning when a young explorer decided to leave home and see what lay beyond the familiar paths. With a small backpack and a heart full of excitement, the journey began.\n\nAlong the way, the explorer met new friends — a playful dog, a wise old bird, and a river that seemed to speak through its flowing waters. Each encounter brought a new lesson about trust, bravery, and kindness.\n\nAs challenges appeared, the explorer learned that adventure is not just about reaching a destination, but about growing stronger and wiser with every step. By the end of the journey, home felt different — richer with stories, experiences, and newfound confidence.",
+    "image": "https://images.template.net/174737/free-simple-children-s-story-book-cover-template-edit-online.jpg",
+    "audio_path": "audio/second_story_voice.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Pages of Endless Dreams",
+    "description": "A heartwarming story that celebrates imagination, books, and the power of dreams.",
+    "text": "In a world where books were seen as ordinary objects, one child believed they were gateways to endless possibilities. Every page turned opened a door to a new land filled with heroes, mysteries, and dreams waiting to be discovered.\n\nThis story follows the child’s journey through stories that inspired courage, creativity, and compassion. Each book became a teacher, showing that knowledge is powerful and dreams are worth chasing.\n\nAs the story unfolds, it reminds us that reading is more than a habit — it is an adventure of the mind that shapes who we become and how we see the world.",
+    "image": "https://img.freepik.com/free-vector/flat-world-book-day-vertical-poster-template_23-2149312149.jpg?semt=ais_hybrid&w=740&q=80",
+    "audio_path": "audio/story_voice.mp3"
+  },
+{
+  "id": 7,
+  "title": "The Little Star’s Wish",
+  "description": "A gentle bedtime story about kindness, dreams, and shining in your own way.",
+  "text": "High above the quiet world, among thousands of sparkling stars, lived a tiny little star named Luma. Every night, Luma watched the Earth below and dreamed of doing something special. But compared to the big bright stars around her, she felt very small and unimportant.\n\nOne peaceful night, Luma noticed a little boy sitting by his window. He looked sad and lonely, holding his favorite teddy bear close to his chest. The moon shone softly, but the boy still had tears in his eyes.\n\nLuma wanted to help. She gathered all the glow she had inside her tiny heart and shined as brightly as she could. Her little light slipped through the boy’s window and danced gently across his room like silver dust.\n\nThe boy looked up in surprise. He smiled as he watched the tiny light twinkle on his walls, his pillow, and his teddy bear. Slowly, his sadness faded away. He lay down, closed his eyes, and soon drifted into a peaceful sleep filled with beautiful dreams.\n\nFrom that night on, Luma understood something very important — you do not have to be the biggest or brightest to make someone’s world better. Even the smallest light can bring comfort in the dark.\n\nAnd every night after that, Luma shined happily, knowing she had found her own special way to glow.",
+  "image": "assets/images/bedtime2.jpg",
+  "audio_path": "assets/audio/bedtime2.mp3"
+},
+  {
+    "id": 5,
+    "title": "The Honest Little Boy",
+    "description": "A touching moral story about honesty and courage.",
+    "text": "One day, a little boy found a wallet on the road while walking home from school. Inside it were some money, cards, and a family photo. Even though he really wanted to keep the money and buy toys, he remembered what his mother always said: honesty is worth more than gold. So he went to the nearby shop and asked if anyone knew the owner. Soon, an old man arrived, worried and tired. The boy returned the wallet with a smile. The old man was so thankful that tears filled his eyes. He told the boy that the wallet had his medicine money. That day, the little boy learned that doing the right thing brings peace to the heart.",
+    "image": "assets/images/moral1.jpg",
+    "audio_path": "audio/moral1.mp3"
+  },
+  {
+    "id": 6,
+    "title": "The Lost Puppy Adventure",
+    "description": "A brave journey through the forest to find a lost puppy.",
+    "text": "A small girl named Meera loved adventures. One morning, her puppy Bruno ran into the forest chasing butterflies and didn’t return. Meera packed a bottle of water, a flashlight, and some biscuits, then bravely followed Bruno’s paw prints. Along the way, she crossed a tiny stream, climbed over fallen trees, and listened carefully to the sounds of birds. Finally, near a flower field, she heard a soft bark. Bruno was stuck behind a bush but safe. Meera hugged him tightly and promised never to let him wander alone again. Together they walked home, proud and happy.",
+    "image": "assets/images/adventure1.jpg",
+    "audio_path": "audio/adventure1.mp3"
+  },
+  {
+    "id": 7,
+    "title": "The Clever Rabbit",
+    "description": "A fun animal story about intelligence and quick thinking.",
+    "text": "In a green forest lived a clever rabbit named Chikku. One hot afternoon, a hungry fox tried to catch him. Chikku quickly thought of a plan. He told the fox that there was another fox inside the deep well nearby. Curious and angry, the fox looked into the well and saw his own reflection. Thinking it was another fox, he jumped in and splashed into the cold water. Chikku ran away laughing. All the animals praised the little rabbit for using his brain instead of fear.",
+    "image": "assets/images/animal1.jpg",
+    "audio_path": "audio/animal1.mp3"
+  },
+  {
+    "id": 8,
+    "title": "The Moonlight Castle",
+    "description": "A magical story about a hidden castle in the clouds.",
+    "text": "Every night, little Anya looked at the moon and wondered if someone lived there. One evening, a silver bird appeared at her window and invited her on a magical ride. The bird flew high into the sky and landed at a glowing castle made of moonlight. Inside, stars danced like fireflies and tiny fairies sang sweet songs. The Moon Queen welcomed Anya and gave her a sparkling star pendant. Before sunrise, Anya returned home safely. From that night on, whenever she looked at the sky, she smiled knowing magic truly existed.",
+    "image": "assets/images/fantasy1.jpg",
+    "audio_path": "audio/fantasy1.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Sleepy Cloud",
+    "description": "A soft bedtime story to help children sleep peacefully.",
+    "text": "Far above the world, there lived a tiny cloud who loved to float slowly across the sky. Every night, Sleepy Cloud watched children close their eyes and drift into dreams. One evening, he noticed a little girl who couldn’t sleep. So he gently floated over her house and whispered soft lullabies through the breeze. Soon, her eyes became heavy and her dreams filled with stars, teddy bears, and moonbeams. Sleepy Cloud smiled and continued his quiet journey through the night sky.",
+    "image": "assets/images/bedtime1.jpg",
+    "audio_path": "audio/bedtime1.mp3"
+  },
+  {
+    "id": 10,
+    "title": "The Best Friends Picnic",
+    "description": "A sweet story about friendship, sharing, and kindness.",
+    "text": "Asha and Riya were best friends who loved spending time together. One sunny Sunday, they planned a picnic near the lake. Asha brought sandwiches and Riya brought juice and fruits. While eating, they saw a lonely little girl sitting nearby with no food. Without thinking twice, they invited her to join them. The three girls laughed, played games, and shared stories all afternoon. By the end of the day, they had made a new friend. Asha and Riya learned that friendship grows bigger when kindness is shared.",
+    "image": "assets/images/friendship1.jpg",
+    "audio_path": "audio/friendship1.mp3"
+  }
+]
+
